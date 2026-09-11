@@ -23,7 +23,7 @@ export const directories: Directory[] = [
         "name": "SaaSCity",
         "link": "https://saascity.io/",
         "submission_link": "https://saascity.io/submit",
-        "domain_rating": 59,
+        "domain_rating": 64,
         "monthly_visits": 200,
         "submission_experience": "Good",
         "pricing": "Free"
